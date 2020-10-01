@@ -45,7 +45,7 @@ Phone Pay OTP              | https://www.youtube.com/watch?v=ZgaoLubKBBo
 Telegram OTP               | https://www.youtube.com/watch?v=BhGyGkIDhO0
 
 ### TECHNIQUE
-When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
+When victim enters his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once the target victim enters that OTP such OTP will also be there with you and you will be allowed to login the account before the target victim
 
 ### TUTORIAL [ KALI ]
 [(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://www.youtube.com/watch?v=MhSb4My1lZo)
@@ -96,4 +96,4 @@ When victim enter his credentials, you need to go to original website and use th
 ### DISCLAIMER
                                        TO BE USED FOR EDUCATIONAL PURPOSES ONLY
 
-The use of the Adv-Phishing is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. 
+The use of the Adv-Phishing tools or program  is COMPLETE RESPONSIBILITY of the CONCERNED USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program whatsoever 
